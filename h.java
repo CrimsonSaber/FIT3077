@@ -1,6 +1,6 @@
 //lol testing
 /** 
- * An Assesement class for inheritance by exam and assignment classes
+ * An Assesement class for inheritance by Exam and assignment classes
  * @author Saurav Kadam
  */
 
